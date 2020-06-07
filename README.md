@@ -26,10 +26,23 @@ The technologies covered are the ones I study the most today and always wanting 
 
 ## Technologies
 This project was developed with the following technologies:
-
+-  [Axios](https://github.com/axios/axios)
+-  [Expo](https://expo.io/)
+-  [Expo](https://github.com/arb/celebrate)
+-  [Express](https://expressjs.com/pt-br/)
+-  [Google Fonts](https://fonts.google.com/)
+-  [Knex](http://knexjs.org/)
+-  [Leaflet](https://leafletjs.com/)
+-  [Multer](https://github.com/expressjs/multer)
+-  [MailComposer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
+-  [React Dropzone](https://github.com/react-dropzone/react-dropzone)
+-  [React Leaflet](https://react-leaflet.js.org/)
+-  [React Native Maps](https://github.com/react-native-community/react-native-maps)
+-  [React Native Picker Select](https://github.com/lawnstarter/react-native-picker-select)
 -  [React-Native](https://facebook.github.io/react-native/)
 -  [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
 -  [React Native Svg](https://github.com/react-native-community/react-native-svg)
 -  [React Native VectorIcons](https://github.com/oblador/react-native-vector-icons)
 -  [React Navigation](https://reactnavigation.org/)
+-  [SQlite](https://www.sqlite.org/index.html)
 -  [VS Code](https://code.visualstudio.com/) with [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
