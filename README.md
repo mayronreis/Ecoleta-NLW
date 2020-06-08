@@ -27,7 +27,7 @@ The technologies covered are the ones I study the most today and always wanting 
 ## Technologies
 This project was developed with the following technologies:
 -  [Axios](https://github.com/axios/axios)
--  [Expo](https://expo.io/)
+-  [Celebrate](https://expo.io/)
 -  [Expo](https://github.com/arb/celebrate)
 -  [Express](https://expressjs.com/pt-br/)
 -  [Google Fonts](https://fonts.google.com/)
