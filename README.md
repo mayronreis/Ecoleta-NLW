@@ -8,7 +8,7 @@ It is an application that aims to help people find collection points efficiently
 The basis of this application was developed during the Next Level Week offered by RocketSeat (https://rocketseat.com.br/).
 
 ## Presentation
-![](https://github.com/mayronreis/Ecoleta-NLW/blob/master/mobile/assets/Capa.png)
+![](https://github.com/mayronreis/Ecoleta-NLW/blob/master/mobile/assets/presentation.gif)
 
 ## Challenges
 Developing an application, going through Api, web and mobile development is already an interesting challenge.
